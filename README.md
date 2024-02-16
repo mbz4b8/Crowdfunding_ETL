@@ -35,5 +35,8 @@ Raw data files needed to create the DataFrames are located here:
 
 Final transformed "Contacts" DataFrame:  github.com/mbz4b8/Crowdfunding_ETL/blob/main/Resources/contacts.csv
 
-#Database Creation: crowdfunding_db has the below schema
+# Database Creation: crowdfunding_db has the below schema:
+
+![image](https://github.com/mbz4b8/Crowdfunding_ETL/assets/149974307/32bff442-ef87-42aa-af06-d66535f00d5b)
+
 
