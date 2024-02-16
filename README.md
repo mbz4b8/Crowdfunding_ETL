@@ -19,7 +19,7 @@ The instructions for this mini project are divided into the following subsection
 
 - Raw data files needed to create the DataFrames are located [here](https://github.com/mbz4b8/Crowdfunding_ETL/blob/main/Resources/crowdfunding.xlsx)
 
-- Final transformed Cateogory DataFrame is locted [here](https://github.com/mbz4b8/Crowdfunding_ETL/blob/main/Resources/category.csv)
+- Final transformed Cateogory DataFrame is located [here](https://github.com/mbz4b8/Crowdfunding_ETL/blob/main/Resources/category.csv)
 - Final transformed Subcategory DataFrame is located [here](https://github.com/mbz4b8/Crowdfunding_ETL/blob/main/Resources/subcategory.csv)
 
 ### To generate data for "Campaign" DataFrame
