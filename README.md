@@ -41,7 +41,7 @@ The instructions for this mini project are divided into the following subsection
 ![image](https://github.com/mbz4b8/Crowdfunding_ETL/assets/149974307/32bff442-ef87-42aa-af06-d66535f00d5b)
 
 ### To recreate the crowdfunding_db database:
-- Create new database labeled "crowdfunding_db in PgAdmin.
+- Create new database labeled "crowdfunding_db" in PgAdmin.
 - Import [CrowdfundingSQLschema.sql](https://github.com/mbz4b8/Crowdfunding_ETL/blob/main/crowdfunding_db/CrowdfundingSQLschema.sql)
 - Load [Transformed data files](https://github.com/mbz4b8/Crowdfunding_ETL/tree/main/crowdfunding_db/data) into their corresponding Table names
 
