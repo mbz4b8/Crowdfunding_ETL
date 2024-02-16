@@ -12,7 +12,7 @@ The instructions for this mini project are divided into the following subsection
 - Create the Contacts DataFrame
 - Create the Crowdfunding Database
 
-## Data Documentation: 
+## Data Extraction & Transformation: 
 
 ### To create the Category and Subcategory DataFrames:
 - Run jupyter notebook [ETL_Mini_Project_MZier_JHaas](https://github.com/mbz4b8/Crowdfunding_ETL/blob/main/ETL_Mini_Project_MZier_JHaas.ipynb) 
@@ -34,7 +34,7 @@ The instructions for this mini project are divided into the following subsection
 
 - Final transformed "Contacts" DataFrame is located [here](https://github.com/mbz4b8/Crowdfunding_ETL/blob/main/Resources/contacts.csv)
 
-## Database Creation: 
+## Data Loading & Database Creation: 
 
 ### crowdfunding_db ERD sketch depicting the data model for the above Tranformed data files:
 
