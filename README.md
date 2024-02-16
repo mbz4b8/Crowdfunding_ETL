@@ -36,7 +36,7 @@ The instructions for this mini project are divided into the following subsection
 
 ## Database Creation: 
 
-### crowdfunding_db ERD sketch depicting the database modeling of the above Tranformed data files:
+### crowdfunding_db ERD sketch depicting the data model for the above Tranformed data files:
 
 ![image](https://github.com/mbz4b8/Crowdfunding_ETL/assets/149974307/32bff442-ef87-42aa-af06-d66535f00d5b)
 
