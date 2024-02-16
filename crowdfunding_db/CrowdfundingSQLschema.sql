@@ -20,6 +20,8 @@ CREATE TABLE "campaign" (
         "cf_id"
      )
 
+SELECT *
+FROM "campaign"
 
 CREATE TABLE "Contacts" (
     "contact_id" INT   NOT NULL,
@@ -31,6 +33,9 @@ CREATE TABLE "Contacts" (
      )
 );
 
+SELECT *
+FROM "Contacts"
+
 CREATE TABLE "category" (
     "category_id" varchar(50)   NOT NULL,
     "category" varchar(50)   NOT NULL,
@@ -39,6 +44,9 @@ CREATE TABLE "category" (
      )
 );
 
+SELECT *
+FROM "catgegory"
+
 CREATE TABLE "subcategory" (
     "subcateogry_id" varchar(50)   NOT NULL,
     "subcategory" varchar(50)   NOT NULL,
@@ -46,6 +54,9 @@ CREATE TABLE "subcategory" (
         "subcateogry_id"
      )
 );
+
+SELECT *
+FROM "subcatgegory"
 
 ALTER TABLE "camapign" ADD CONSTRAINT "fk_camapign_contact_id" FOREIGN KEY("contact_id")
 REFERENCES "Contacts" ("contact_id");
